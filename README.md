@@ -19,7 +19,7 @@ Passionate about building scalable systems, real-time applications, and full-sta
 ## 🧠 Education
 **BSc in Computer Science** — University of Calgary (2023–Present)  
 - **Top 1% Academic Standing** | GPA: 3.90  
-- **Dean’s List** | **International Undergraduate Award 2024**  
+- **Dean’s List 2023-2024 & 2024-2025** | **International Undergraduate Award 2024 & 2025**  
 - Science Internship Program  
 - Key Courses: Algorithms, Info Security, Data Structures, Networks, Software Engineering
 
@@ -42,7 +42,7 @@ Java console-based strategy game with JUnit testing and Git-based version contro
 ---
 
 ## 🧑‍💼 Experience
-**IT Support, SMCHS – Dubai**  
+**IT Operations Assistant, SMCHS – Dubai**  
 Troubleshot 50+ IT issues for 300+ users. Improved reliability of network and hardware systems.
 
 ---
