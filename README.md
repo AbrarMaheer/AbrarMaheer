@@ -1,6 +1,7 @@
 # Hi, I'm Abrar Maheer Bin Arif 👨‍💻
 
-**Computer Science Student** @ University of Calgary | **Dean’s List 2023–2024 & 2024-2025** | GPA: **3.90/4.00** | **University of Calgary International Undergraduate Award 2024 & 2025**
+**Computer Science Student** @ University of Calgary | **Dean’s List 2023–2024 & 2024-2025** | GPA: **3.90/4.00** | **International Undergraduate Award 2024 & 2025**
+
 Passionate about building scalable systems, real-time applications, and full-stack development.
 
 ---
